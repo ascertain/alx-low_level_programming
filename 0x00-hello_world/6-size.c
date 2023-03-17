@@ -2,7 +2,7 @@
 
 /**
  * main - Print size of character
- * Return: 0
+ *Return: 0
  */
 
 int main(void)

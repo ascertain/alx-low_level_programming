@@ -1,9 +1,11 @@
 #include <stdio.h>
+
 /**
- * main - Entry point
- * Description: print "\"Programming is like building a multilingual puzzle"
+ * main - Print string
+ * Description: print with proper grammar, but the outcome is a piece of art,
  * Return: 0
  */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
